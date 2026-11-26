@@ -44,3 +44,4 @@ Original customer names were replaced with fictional names in selected records d
 1. Download `Retail Dashboard.pbix` from the repository.
 2. Open it in **Power BI Desktop** on Windows to explore the report and its slicers.
 3. For refresh or reproduction, use a shareable source with matching tables and columns. In Power BI Desktop, update the source location under **Transform data → Data source settings**, then refresh.
+4. <img width="1373" height="767" alt="Dashboard 1" src="https://github.com/user-attachments/assets/07802ab5-4d15-4121-8b73-f20aa6e1c61b" />
